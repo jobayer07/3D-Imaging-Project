@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Created on Thu Mar 18 18:12:05 2021
 @author: Mohammad Jobayer Hossain
